@@ -1,0 +1,1 @@
+This program uses the exceljs and pdf-lib libraries to read the Excel file and create a PDF document. It then iterates over each worksheet in the Excel file, adding each cell's text to the PDF page. Finally, it saves the PDF to a file.
